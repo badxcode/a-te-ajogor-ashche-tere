@@ -1,0 +1,21 @@
+generate co-ordinates
+
+                y
+                |
+                |
+                |
+                |   (1,1)
+----------------|------------------ x
+                |
+                |
+                |
+                |
+                |
+
+print F using nested loop
+
+FFFFFF
+FF
+FFFFFF
+FF
+FF

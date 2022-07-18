@@ -1,0 +1,13 @@
+print * like this
+*
+**
+***
+****
+*****
+
+
+Number guess
+    define a number
+    user have to guess the number
+    user can guess up to 3 times
+    print if he won or loose

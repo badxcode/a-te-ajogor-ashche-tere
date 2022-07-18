@@ -1,0 +1,22 @@
+If the weather is hot
+    It's a hot day
+    Drink SMC+
+If the weather is cold
+    It's a cold day
+    suit up with jacket
+otherwise
+    It's a lovely day
+
+
+Price of A BOOK = 250tk
+if the customer is regular
+    Bookshop offer 30% discount
+if the customer is not regular
+    They offer 15% discount
+if the customer is not regular and use Card's for payment
+    they offer 20% discount
+
+print the price of a book
+
+
+Meter to Centimeter / Centimeter to Meter
