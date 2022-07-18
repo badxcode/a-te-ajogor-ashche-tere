@@ -1,0 +1,7 @@
+collect a basic information of a Student
+    The Name should not consist more than 30ch
+    Name should not be less than 5ch
+
+print the name with titled case if already not
+
+'Bangla' is mother-language of Bangladesh

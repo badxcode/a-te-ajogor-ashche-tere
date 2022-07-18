@@ -1,0 +1,15 @@
+//Number : 1917
+//output: One Nine One Seven
+
+"Hello Good evening :)""
+
+Hello Good Evening 😊
+
+I am sad :(
+I am sad 😞
+
+I Love you <3
+I Love you ❤️
+
+hmm nice (y)
+hmm nice 👍
